@@ -1,6 +1,9 @@
 
 # Customer Segmentation with Unsupervised Learning
 
+<img src="https://github.com/baynazoglu/Customer-Segmentation-with-Unsupervised-Learning/blob/main/Customer-Segmentation.png
+" alt="Image" width="600" height="420">
+
 The aim of this project is to segment customers of FLO, a company, and determine marketing strategies based on these segments. The goal is to create groups based on customers' behaviors and characteristics.
 
 ## Business Problem
